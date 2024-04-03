@@ -1,4 +1,4 @@
-![logo](https://static.wanted.co.kr/images/events/3178/58ac3248.jpg)
+![logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 # 프로젝트명
 프로젝트 관련 설명
